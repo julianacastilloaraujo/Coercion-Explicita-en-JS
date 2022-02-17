@@ -8,4 +8,4 @@ console.log(c);
 //convertir 20 string a 20 numero
 var d = Number(c);
 typeof d;
-
+//Se obliga a cambiar mediante codigo el tipo de una variable a otra
